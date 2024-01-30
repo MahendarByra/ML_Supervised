@@ -33,3 +33,5 @@ Each model has gone through three steps
 1. Creation and Training
 2. Evaluation
 3. Hyper-parameter tuning
+
+**Note** : Following the completion of model training, the code cell associated with this specific code is embedded within a block, annotated with the model name. However, upon inspection on GitHub, it has come to my attention that this particular cell is being substituted with a bold message indicating "content is replaced with HTML; please rerun the cell". 
